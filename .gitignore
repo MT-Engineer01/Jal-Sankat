@@ -1,0 +1,6 @@
+data/raw/*.csv
+data/groundwater.db
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
